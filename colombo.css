@@ -1,0 +1,13 @@
+body {
+  padding-top: 45px;
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+p {
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.main {
+  padding: 5px 15px;
+  text-align: center;
+}
